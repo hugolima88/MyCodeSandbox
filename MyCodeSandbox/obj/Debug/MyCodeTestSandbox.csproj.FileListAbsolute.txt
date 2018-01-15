@@ -1,6 +1,0 @@
-c:\users\hugol\documents\visual studio 2015\Projects\MyCodeTestSandbox\MyCodeTestSandbox\bin\Debug\MyCodeTestSandbox.exe.config
-c:\users\hugol\documents\visual studio 2015\Projects\MyCodeTestSandbox\MyCodeTestSandbox\bin\Debug\MyCodeTestSandbox.exe
-c:\users\hugol\documents\visual studio 2015\Projects\MyCodeTestSandbox\MyCodeTestSandbox\bin\Debug\MyCodeTestSandbox.pdb
-c:\users\hugol\documents\visual studio 2015\Projects\MyCodeTestSandbox\MyCodeTestSandbox\obj\Debug\MyCodeTestSandbox.csprojResolveAssemblyReference.cache
-c:\users\hugol\documents\visual studio 2015\Projects\MyCodeTestSandbox\MyCodeTestSandbox\obj\Debug\MyCodeTestSandbox.exe
-c:\users\hugol\documents\visual studio 2015\Projects\MyCodeTestSandbox\MyCodeTestSandbox\obj\Debug\MyCodeTestSandbox.pdb
