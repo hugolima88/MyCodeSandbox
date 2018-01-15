@@ -7,8 +7,8 @@
     <ProjectGuid>{83018CB8-5998-4D5B-92BE-FAB6EE91090F}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>MyCodeTestSandbox</RootNamespace>
-    <AssemblyName>MyCodeTestSandbox</AssemblyName>
+    <RootNamespace>MyCodeSandbox</RootNamespace>
+    <AssemblyName>MyCodeSandbox</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
